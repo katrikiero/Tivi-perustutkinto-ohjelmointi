@@ -27,3 +27,27 @@ Näyttönä teen [Nakittajaprojektia](https://github.com/Twig-the-code/nakittaja
 
 **Viestintä ja palaverit**
 - Slack
+
+## Ohjelmointi, 45 osp
+
+Kuvaus:
+
+**Opiskelija käyttää ohjelmistokehitysympäristöä**
+
+- käyttää ohjelmointieditoria tai kehitysympäristöä
+- etsii ja korjaa virheitä ohjelmakoodista
+- testaa ohjelman toimintoja
+
+**Opiskelija ohjelmoi**
+
+- käyttää rakenteista ohjelmointia toteutuksissa
+- kirjoittaa ylläpidettävää ohjelmakoodia
+- tulkitsee suunnitelmia ja toteuttaa käyttöliittymän tai sen osia
+- tulkitsee suunnitelmia ja toteuttaa ohjelmiston toimintoja
+
+**Opiskelija toimii ohjelmistokehitystiimin jäsenenä**
+
+- sopii tehtävistä tiimin muiden jäsenten kanssa
+- etsii ratkaisuvaihtoehtoja ja ratkoo ongelmia yhdessä tiimin kanssa
+- arvioi ratkaisujen toimivuuden yhdessä tiimin kanssa
+- arvioi omaa toimintaa tiimin jäsenenä
